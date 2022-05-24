@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darpankattel
 - 👀 I’m interested in web development, programming, and more
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Django, React, React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 Visit my website, darpankattel.com.np to contact me or search for me on facebook
 

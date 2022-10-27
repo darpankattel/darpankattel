@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://darpankattel.com.np/](https://darpankattel.com.np/)
 
-- 📝 I regularly write articles on [https://darpankattel.com.np/blog/](https://darpankattel.com.np/blog/)
+- 📝 I often write articles on [https://darpankattel.com.np/blog/](https://darpankattel.com.np/blog/)
 
 - 📫 How to reach me **darpankattel1@gmail.com**
 

@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/katteldarpan" target="blank"><img src="https://img.shields.io/twitter/follow/katteldarpan?logo=twitter&style=for-the-badge" alt="katteldarpan" /></a> </p>
 
-- 🔭 I’m currently working on **a Django e-commerce app**
+- 🔭 I’m currently working on **TDF's GIS-based Open Data Information Investment System** & more...
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently working in **Django, React, Next**
 
 - 👨‍💻 All of my projects are available at [https://darpankattel.com.np/](https://darpankattel.com.np/)
 

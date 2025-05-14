@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darpan Kattel</h1>
-<h3 align="center">A Newbie Full Stack Dev from Nepal</h3>
+<h3 align="center">An Engineer from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darpankattel" alt="darpankattel" /></a> </p>
 

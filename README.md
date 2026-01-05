@@ -53,7 +53,7 @@ I regularly write technical articles on my blog at [darpankattel.com.np/blogs](h
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darpankattel)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=darpankattel&theme=default)](https://git.io/streak-stats)
 
 ---
 

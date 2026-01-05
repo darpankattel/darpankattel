@@ -1,6 +1,4 @@
 # Darpan Kattel
-![Darpan's Avatar](https://avatars.githubusercontent.com/u/85621032?s=400&u=47e2302b2d6443097fe0c780689738fd2ae1992c&v=4)
-
 **Backend Developer** | Kathmandu, Nepal
 
 Passionate Backend Developer with 3+ years of experience building secure, scalable, and high-availability backend systems. Specialized in architecting end-to-end solutions using Django, DRF, GeoDjango, PostgreSQL/PostGIS, and AWS. Experienced in designing RESTful APIs, implementing CI/CD pipelines, and deploying production systems with >99.9% uptime.

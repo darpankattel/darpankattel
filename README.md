@@ -17,7 +17,7 @@ Passionate Backend Developer with 3+ years of experience building secure, scalab
 
 ## 💼 Professional Experience
 
-**Backend Developer** @ TechTrain Pvt. Ltd. | *Jul 2022 - Jun 2025*
+**Backend Developer** @ [TechTrain Pvt. Ltd.](https://techtrain.com.np) | *Jul 2022 - Jun 2025*
 
 - Led and delivered multiple large-scale platforms for (semi)government agencies, ensuring secure, reliable, and scalable backend systems
 - Designed complete backend architectures and integrated them with modern frontends
@@ -34,7 +34,7 @@ Passionate Backend Developer with 3+ years of experience building secure, scalab
 
 ## 📜 Certifications
 
-- **AWS Certified Solutions Architect - Associate** (Sep 2025 - Sep 2028)
+- [**AWS Certified Solutions Architect - Associate**](https://cp.certmetrics.com/amazon/en/public/verify/credential/f79a4f6bb159405cb6b66a56f53913b9) (Sep 2025 - Sep 2028)
 
 ## 🏆 Achievements
 
@@ -42,7 +42,7 @@ Passionate Backend Developer with 3+ years of experience building secure, scalab
 
 ## 📝 Writing
 
-I regularly write technical articles on my blog at [darpankattel.com.np/blog](https://darpankattel.com.np/blog/), sharing insights on backend development, system architecture, and cloud infrastructure.
+I regularly write technical articles on my blog at [darpankattel.com.np/blogs](https://www.darpankattel.com.np/blogs), sharing insights on backend development, system architecture, and cloud infrastructure.
 
 ## 📫 Get in Touch
 

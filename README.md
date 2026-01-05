@@ -53,8 +53,7 @@ I regularly write technical articles on my blog at [darpankattel.com.np/blogs](h
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpankattel&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpankattel&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=darpankattel)](https://git.io/streak-stats)
 
 ---
 

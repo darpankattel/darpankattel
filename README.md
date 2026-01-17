@@ -17,6 +17,13 @@ Passionate Backend Developer with 3+ years of experience building secure, scalab
 
 ## 💼 Professional Experience
 
+**Software Engineer** @ [Niural AI](https://niural.com) | *Jan12, 2022 - present*
+
+Working on Niural, a multi-tenant SaaS application helping large-scale organizations from 150+ countries.
+
+- Creating scalable, server-side applications using Python, AWS, and modern cloud technologies
+- Currently working on payroll and financial modules for enterprise clients
+
 **Backend Developer** @ [TechTrain Pvt. Ltd.](https://techtrain.com.np) | *Jul 2022 - Jun 2025*
 
 - Led and delivered multiple large-scale platforms for (semi)government agencies, ensuring secure, reliable, and scalable backend systems

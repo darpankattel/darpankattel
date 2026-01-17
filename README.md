@@ -1,7 +1,7 @@
 # Darpan Kattel
-**Backend Developer** | Kathmandu, Nepal
+**Software Engineer** | Kathmandu, Nepal
 
-Passionate Backend Developer with 3+ years of experience building secure, scalable, and high-availability backend systems. Specialized in architecting end-to-end solutions using Django, DRF, GeoDjango, PostgreSQL/PostGIS, and AWS. Experienced in designing RESTful APIs, implementing CI/CD pipelines, and deploying production systems with >99.9% uptime.
+Passionate Software Engineer, with 3+ years of experience building secure, scalable, and high-availability backend systems. Specialized in architecting end-to-end solutions using Python, Django, DRF, GeoDjango, PostgreSQL/PostGIS, and AWS. Experienced in designing RESTful APIs, implementing CI/CD pipelines, and deploying production systems with >99.9% uptime.
 
 ## 🔧 Technical Expertise
 
@@ -9,7 +9,7 @@ Passionate Backend Developer with 3+ years of experience building secure, scalab
 
 **Frameworks & Libraries:** Django, Django REST Framework, GeoDjango, React.js, Next.js
 
-**Databases:** PostgreSQL, PostGIS, MySQL, DynamoDB
+**Databases:** PostgreSQL, DynamoDB, PostGIS, MySQL
 
 **Cloud & DevOps:** AWS (EC2, RDS, Lambda, S3, IoT Core, Timestream, Cognito), Docker, NGINX, Gunicorn, GitHub Actions
 

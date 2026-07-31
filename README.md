@@ -17,7 +17,7 @@ Passionate Software Engineer, with 3+ years of experience building secure, scala
 
 ## 💼 Professional Experience
 
-**Software Engineer** @ [Niural AI](https://niural.com) | *Jan12, 2022 - present*
+**Software Engineer** @ [Niural AI](https://niural.com) | *Jan12, 2022 - present* | [GitHub](https://github.com/darpan-niural)
 
 Working on Niural, a multi-tenant SaaS application helping large-scale organizations from 150+ countries.
 
